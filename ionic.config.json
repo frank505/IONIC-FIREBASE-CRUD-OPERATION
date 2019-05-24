@@ -1,0 +1,8 @@
+{
+  "name": "firebaseCRUD",
+  "app_id": "2b098a47",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
